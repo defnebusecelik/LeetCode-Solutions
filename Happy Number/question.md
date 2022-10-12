@@ -10,5 +10,7 @@ Return true if n is a happy number, and false if not.
 -->Results
 
 RUNTIME: 3ms
+
 MEMORY USAGE: 41.1MB
+
 COMPLEXITY: O(log(n))
