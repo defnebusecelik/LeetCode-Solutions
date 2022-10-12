@@ -6,7 +6,8 @@ An integer is a palindrome when it reads the same backward as forward.
 
 For example, 121 is a palindrome while 123 is not.
 
+RESULTS
 
-RUNTIME: 15ms
-MEMORY USAGE: 44MB
-TIME COMPLEXİTY: O(log(n))
+*RUNTIME: 15ms
+*MEMORY USAGE: 44MB
+*TIME COMPLEXİTY: O(log(n))
