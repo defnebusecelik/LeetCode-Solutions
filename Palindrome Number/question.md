@@ -9,5 +9,7 @@ For example, 121 is a palindrome while 123 is not.
 RESULTS
 
 *RUNTIME: 15ms
+
 *MEMORY USAGE: 44MB
+
 *TIME COMPLEXİTY: O(log(n))
