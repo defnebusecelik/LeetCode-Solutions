@@ -6,4 +6,6 @@
 
 • Happy Number
 
-•Length of Last Word
+• Length of Last Word
+
+• Add Binary
