@@ -5,3 +5,6 @@ Given a string s consisting of words and spaces, return the length of the last w
 A word is a maximal substring consisting of non-space characters only.
 
 --> Results
+
+RUNTIME: 0ms
+MEMORY USAGE: 40.4MB
