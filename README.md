@@ -9,3 +9,5 @@
 • Length of Last Word
 
 • Add Binary
+
+• Sqrt(x)
