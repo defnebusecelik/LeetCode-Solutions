@@ -7,4 +7,5 @@ A word is a maximal substring consisting of non-space characters only.
 --> Results
 
 RUNTIME: 0ms
+
 MEMORY USAGE: 40.4MB
