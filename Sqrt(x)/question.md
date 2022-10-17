@@ -5,3 +5,7 @@ Given a non-negative integer x, return the square root of x rounded down to the 
 You must not use any built-in exponent function or operator.
 
 --> Results
+
+RUNTIME: 3ms
+
+MEMORY USAGE: 41.4MB
